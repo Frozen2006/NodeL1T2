@@ -1,0 +1,13 @@
+{
+  "name": "NodeTask2",
+  "version": "0.0.0",
+  "description": "NodeTask2",
+  "main": "app.js",
+  "author": {
+    "name": "ilya.starostin",
+    "email": ""
+  },
+  "dependencies": {
+    "optimist": "~0.6.1"
+  }
+}
